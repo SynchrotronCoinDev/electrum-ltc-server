@@ -12,9 +12,9 @@ params = {
         'genesis_hash': '000000000933ea01ad0ee984209779baaec3ced90fa3f408719526f8d77f4943'
     },
     'litecoin_main': {
-        'pubkey_address': 48,
-        'script_address': 5,
-        'genesis_hash': '12a765e31ffd4059bada1e25190f6e98c99d9714d334efa41a195a7e7e04bfe2'
+        'pubkey_address': 125,
+        'script_address': 85,
+        'genesis_hash': '00000c10a3ad77caa09e1dcefdf5643caa4eb8ab2d22d5f672076617ba1011b7'
     },
     'litecoin_test': {
         'pubkey_address': 111,
